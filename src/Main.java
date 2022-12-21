@@ -16,5 +16,12 @@ public class Main {
        stuart.size=234;
        stuart.rings="3";
        stuart.temperature="43343454k";
+
+       Planet2 boris=new Planet2();
+       boris.color="pink";
+       boris.size=3546;
+       boris.rings="1";
+       boris.temperature="4556k";
+
     }
 }
