@@ -7,8 +7,14 @@ public class Main {
         Xron.sun=1;
 
         FeatureSun Fxron=new FeatureSun();
-        Fxron.="green";
-       // Fxron.size="4382742km";
-       // Fxron.temp="-23478274372k";
+        Fxron.color="green";
+        Fxron.size="4382742km";
+        Fxron.temp="-23478274372k";
+
+       Planet1 stuart=new Planet1();
+       stuart.color="white";
+       stuart.size=234;
+       stuart.rings="3";
+       stuart.temperature="43343454k";
     }
 }
